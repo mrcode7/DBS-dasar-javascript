@@ -1,0 +1,5 @@
+## DBS Foundation Coding Camp
+
+DBS Foundation Coding Camp adalah sebuah program pelatihan coding secara online untuk meningkatkan kompetensi mayarakat Indonesia di bidang teknologi informasi. Program ini merupakan bagian dari DBS Foundation, yayasan milik bank DBS yang berfokus untuk menciptakan dampak dan meningkatkan taraf kehidupan melalui kewirausahaan sosial dan mempersiapkan masyarakat untuk masa depan. Melalui DBS Foundation Coding Camp, DBS Foundation berupaya untuk membekali masyarakat dengan keterampilan untuk masa depan yang lebih baik, khususnya keterampilan literasi keuangan dan digital.
+
+DBS Foundation Coding Camp 2023 memberikan beasiswa pelatihan coding online pada alur belajar Back-End Developer dan DevOps Engineer mulai dari level dasar (basic), pemula (beginner), menengah (intermediate) hingga mahir (expert). Program DBS Foundation Coding Camp 2023 terbuka untuk seluruh Warga Negara Indonesia dan diprioritaskan untuk kalangan menengah ke bawah yang terbagi menjadi 3 kategori, yaitu: Tenaga Didik (Educators), Pelajar (Students), dan Masyarakat Umum (Public).
